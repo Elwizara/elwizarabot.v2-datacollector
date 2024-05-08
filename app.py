@@ -145,4 +145,3 @@ def search_and_extract_text(query):
     
 # Example usage
 search_and_extract_text("نادي الزمالك")
-# send_data_to_GPT("hello")
