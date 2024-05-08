@@ -144,4 +144,4 @@ def search_and_extract_text(query):
 
     
 # Example usage
-search_and_extract_text("نادي الزمالك")
+search_and_extract_text("Leo Messi")
